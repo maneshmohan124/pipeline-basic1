@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {    
             steps {
-                echo 'scm pipeline script'
+                echo 'scm multi branch pipeline script'
             }
         }
     }
